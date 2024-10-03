@@ -63,3 +63,6 @@ body > footer {
   align-items: center;
   justify-content: space-between;
 }
+.btn-fix{
+  width: 7rem;
+}
